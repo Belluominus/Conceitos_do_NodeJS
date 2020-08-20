@@ -19,20 +19,74 @@ Feitos pelo João Pedro "Belluominus" Belluomini, eu hehe. Abaixo estão o que e
 <br>
 <br>
 <br>
-- [ ] **`should be able to create a new repository`**:
+- [x] **`should be able to create a new repository`**:
 
-- [ ] **`should be able to list the repositories`**:
-											
-- [ ] **`should be able to update repository`**:
-																	
-- [ ] **`should not be able to update a repository that does not exist`**:
+<br>
 
-- [ ] **`should not be able to update repository likes manually`**:
+![create Repository](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/createRepository.gif)
 
-- [ ] **`should be able to delete the repository`**:
+<br>
 
-- [ ] **`should not be able to delete a repository that does not exist`**:
+- [x] **`should be able to list the repositories`**:
 
-- [ ] **`should be able to give a like to the repository`**:
+<br>
 
-- [ ] **`should not be able to like a repository that does not exist`**:
+![Read Repositories](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/readRepository.gif)
+
+<br>
+
+- [x] **`should be able to update repository`**:
+
+<br>
+
+![update Repository](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/updaterepository.gif)
+
+<br>
+
+- [x] **`should not be able to update a repository that does not exist`**:
+
+<br>
+
+![update invalid Repository](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/updateInvalidRepository.gif)
+
+<br>
+
+- [x] **`should not be able to update repository likes manually`**:
+
+<br>
+
+![update repository likes manually](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/updateLikesManuallyonRepository.gif)
+
+<br>
+
+- [x] **`should be able to delete the repository`**:
+
+<br>
+
+![delete Repository](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/deleteRepository.gif)
+
+<br>
+
+- [x] **`should not be able to delete a repository that does not exist`**:
+
+<br>
+
+![delete invalid Repository](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/deleteInvalidRepository.gif)
+
+<br>
+
+- [x] **`should be able to give a like to the repository`**:
+
+<br>
+
+![like Repository](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/likeRepository.gif)
+
+<br>
+
+- [x] **`should not be able to like a repository that does not exist`**:
+
+<br>
+
+![like invalid Repository](https://github.com/Belluominus/Conceitos_do_NodeJS/blob/master/readMeFiles/likeInvalidRepository.gif)
+
+<br>
